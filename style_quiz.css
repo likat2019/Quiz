@@ -1,0 +1,15 @@
+body {
+  color: #7e0d88;
+  background-color: greenyellow;
+  border: 4px double red
+};
+
+.header {
+  width: 80%;
+  
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 20px;
+}
